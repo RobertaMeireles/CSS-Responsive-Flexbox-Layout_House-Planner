@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="34px" viewBox="0 0 22 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>seta_dir</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1217.000000, -433.000000)" fill="#88BE4C">
+            <g id="slider" transform="translate(40.000000, 155.000000)">
+                <path d="M1177.74908,293.194314 L1192.22504,278.748828 C1193.22558,277.750391 1194.84348,277.750391 1195.83338,278.748828 L1198.23895,281.149328 C1199.23949,282.147766 1199.23949,283.762262 1198.23895,284.750078 L1187.98869,295 L1198.24959,305.2393 C1199.25014,306.237738 1199.25014,307.852234 1198.24959,308.84005 L1195.84403,311.251172 C1194.84348,312.249609 1193.22558,312.249609 1192.23568,311.251172 L1177.75973,296.805686 C1176.74854,295.807248 1176.74854,294.192752 1177.74908,293.194314 L1177.74908,293.194314 Z" id="seta_dir" transform="translate(1188.000000, 295.000000) rotate(180.000000) translate(-1188.000000, -295.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
